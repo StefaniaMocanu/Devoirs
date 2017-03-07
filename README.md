@@ -1,1 +1,1 @@
-# Devoirs - ici c'et le contenu des devoirs
+# Devoirs - ici c'est le contenu des devoirs
